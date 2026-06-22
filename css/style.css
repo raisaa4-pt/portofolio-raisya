@@ -709,10 +709,8 @@ body{
 .project-stack{
     display:flex;
     flex-wrap:wrap;
-
-    gap:10px;
-
-    margin-bottom:24px;
+    gap:12px;
+    margin-bottom:32px;
 }
 
 .project-stack span{
@@ -728,6 +726,7 @@ body{
 .project-github{
     display:inline-flex;
     align-items:center;
+      margin-top:24px;
     justify-content:center;
 
     width:140px;
